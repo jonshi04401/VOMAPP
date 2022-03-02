@@ -4,7 +4,21 @@
 
   <panel>
     <number>1</number>
-    <image>https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/954/2022/02/23160743/Join-VOM-Nation-640x100-1.png</image>
+    <image>https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/954/2022/03/02152605/GHRT-640x100-1.png</image>
+    <url>https://wvomfm.com</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>2</number>
+    <image>https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/954/2022/03/02151900/Glenn-Beck-001-640x100-1.png</image>
+    <url>https://wvomfm.com</url>
+    <redirect>n</redirect>
+  </panel>
+
+  <panel>
+    <number>3</number>
+    <image>https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/954/2022/03/02151904/Howie-Carr-001-640x100-1.png</image>
     <url>https://wvomfm.com</url>
     <redirect>n</redirect>
   </panel>
